@@ -7,3 +7,6 @@ i.belosvetov@yandex.ru**
 #### I have good teamwork skills.
 
 #### I have basic experience with HTML / CSS, JavaScript, Git.
+
+## Code example Link
+(https://ivanbelosvetov.github.io/samples/#header)
