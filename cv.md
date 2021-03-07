@@ -10,3 +10,9 @@ i.belosvetov@yandex.ru**
 
 ## Code example Link
 (https://ivanbelosvetov.github.io/samples/#header)
+
+### Education
+  Bauman Moscow State Technical University (BMSTU).
+  Also I study online PHP courses.
+
+#### A2 English level
