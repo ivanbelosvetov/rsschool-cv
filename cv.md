@@ -9,7 +9,7 @@ i.belosvetov@yandex.ru**
 #### I have basic experience with HTML / CSS, JavaScript, Git.
 
 ## Code example Link
-(https://ivanbelosvetov.github.io/samples/#header)
+https://ivanbelosvetov.github.io/samples/#header
 
 ### Education
   Bauman Moscow State Technical University (BMSTU).
