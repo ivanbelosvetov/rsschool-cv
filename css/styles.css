@@ -1,0 +1,45 @@
+body {
+  background: rgba(126, 72, 22, 0.871);
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-left: 10px;
+}
+
+.container { 
+  position: relative;
+  min-height: 100%;
+  width: 600px;    
+  margin: 0 auto;
+}
+
+.content {
+  height: 100%;
+  
+}
+
+.content .left-content {
+  width: 30%;
+  float: left;
+  background: rgb(4, 141, 15);
+  height: 477px;
+}
+
+.content .right-content {
+  width: 70%;
+  float: right;
+  background: rgb(155, 220, 25);
+}
+
+.selected {
+  background: yellow;
+}
+
+/*.image {
+  margin-left: 125px;
+}*/
+
+.code-example-link {
+  /*text-decoration: none;*/
+}
